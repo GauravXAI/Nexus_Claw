@@ -232,10 +232,10 @@ Private. See `package.json`.
 
 ## Output
 
-<img width="1920" height="1080" alt="Screenshot From 2026-06-16 17-34-20" src="https://github.com/user-attachments/assets/46a8d767-0b5a-4a08-86db-b1a67da3f89b" />
-<img width="1920" height="1080" alt="Screenshot From 2026-06-16 17-34-13" src="https://github.com/user-attachments/assets/a40bdc18-6e1a-4ba1-8685-345044578c44" />
-<img width="1920" height="1080" alt="Screenshot From 2026-06-16 17-34-04" src="https://github.com/user-attachments/assets/46843f95-62d4-468a-959d-7a9de46af7bf" />
-<img width="1920" height="1080" alt="Screenshot From 2026-06-16 17-33-10" src="https://github.com/user-attachments/assets/54030e4d-0f7a-4dc8-9014-827e0ef77d4e" />
-<img width="1920" height="1080" alt="Screenshot From 2026-06-16 17-33-04" src="https://github.com/user-attachments/assets/d8d61cbd-8f4f-4060-88e6-2ddff21cadd2" />
-<img width="1920" height="1080" alt="Screenshot From 2026-06-16 17-32-57" src="https://github.com/user-attachments/assets/819353a9-2745-4ac4-80d8-13e11f222a17" />
+<img width="1920" height="1080" alt="Screenshot From 2026-06-16 17-34-20" src="https://github.com/user-attachments/assets/5dd7c6f9-64f6-45e7-ba44-8254ad4c463a" />
+<img width="1920" height="1080" alt="Screenshot From 2026-06-16 17-34-13" src="https://github.com/user-attachments/assets/8c23a7c6-215e-4aa3-bdac-f6c0e97e50d4" />
+<img width="1920" height="1080" alt="Screenshot From 2026-06-16 17-34-04" src="https://github.com/user-attachments/assets/a5339e3c-f7f9-4911-8209-0cbc07dcddcd" />
+<img width="1920" height="1080" alt="Screenshot From 2026-06-16 17-33-10" src="https://github.com/user-attachments/assets/4b8749b9-bb4a-4bb2-ac42-9df226dada46" />
+<img width="1920" height="1080" alt="Screenshot From 2026-06-16 17-33-04" src="https://github.com/user-attachments/assets/d7b11ac7-2174-4eef-8bf8-f0744567936d" />
+<img width="1920" height="1080" alt="Screenshot From 2026-06-16 17-32-57" src="https://github.com/user-attachments/assets/580e23f5-a907-437c-8e43-aa466345e2ca" />
 
